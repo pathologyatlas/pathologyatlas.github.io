@@ -39,28 +39,44 @@
 ### Pilonidal Sinus
 
 ### Chronic Pyelonephritis
+
 ### Acute Appendicitis and Periappendicitis
+
 ### Fat Necrosis, Foreign Body Reaction
+
 ### Necrotizing Granulamatous Lymphadenitis
+
 ### Keloid
+
 ### Ulcer, granulation tissue, fibrosis
+
 ### Venous Thrombosis
+
 ### Nasal Polyp
+
 ### ischemic necrosis, testis
+
 ### Hemorrhagic (Red) infarct, lung
 ### Hemorrhagic (Red) infarct, Testis
 
 ## Infectious agents in tissues
 
 ### Necrotizing Granulamatous Lymphadenitis
+
 ### Granulamatous Inflammation, Caseification
+
 ### Acute suppurative lymphadenitis
+
 ### Intestinal parasite, Taenia saginata
+
 ### Cyst Hidatid
+
 ### Amyloidosis, kidney
-### Enterobius vermicularis, appendix
+
 ### Enterobius vermicularis, appendix
 ### Aspergillus, Lung
+
+
 
 Basic Tumor Pathology-1	TUBULAR ADENOMA
 Basic Tumor Pathology-1	TUBULAR ADENOMA
