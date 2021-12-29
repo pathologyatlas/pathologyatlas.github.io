@@ -3,6 +3,8 @@
 - [pathologyatlas.github.io](https://pathologyatlas.github.io/)
 - [lab.patolojinotlari.com](http://lab.patolojinotlari.com)
 - [patolojinotlari.com](https://patolojinotlari.com)
+- twitter
+- linkedin
 
 # Pancreas Ductal Adenocarcinoma
 
