@@ -39,3 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 /toadd/
+.DS_Store
