@@ -3,8 +3,8 @@
 - [pathologyatlas.github.io](https://pathologyatlas.github.io/)
 - [lab.patolojinotlari.com](http://lab.patolojinotlari.com)
 - [patolojinotlari.com](https://patolojinotlari.com)
-- twitter
-- linkedin
+- [twitter](https://twitter.com/patolojinotlari)
+- [linkedin](https://www.linkedin.com/company/patoloji-notlari)
 
 - contact: info@patolojinotlari.com
 
