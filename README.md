@@ -10,14 +10,17 @@
 - contact: info@patolojinotlari.com
 
 
+---
 
-# Pancreas Ductal Adenocarcinoma
-
-https://pathologyatlas.github.io/pancreaticadenocarcinoma/
-
-## Case 1
+# Örnekler
+## Pancreas Ductal Adenocarcinoma
+- https://pathologyatlas.github.io/pancreaticadenocarcinoma/
+### Case 1
 - [histopathology](https://pathologyatlas.github.io/pancreaticadenocarcinoma/case1-histopathology/viewer_z0.html)
 
+## Neoplazinin Klinikopatolojik Özellikleri ve Epidemiyoloji
+
+- https://pathologyatlas.github.io/lecture1/Neoplazinin-Klinikopatolojik-Ozellikleri-ve-Epidemiyoloji.html#1
 
 
 ---
