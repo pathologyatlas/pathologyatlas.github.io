@@ -1,0 +1,3 @@
+[submodule "pancreaticadenocarcinoma"]
+	path = pancreaticadenocarcinoma
+	url = https://github.com/pathologyatlas/pancreaticadenocarcinoma
