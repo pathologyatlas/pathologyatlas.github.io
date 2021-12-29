@@ -1,8 +1,8 @@
 # Pathology Atlas / Patoloji Notları
 
 - [pathologyatlas.github.io](https://pathologyatlas.github.io/)
-- [lab.patolojinotlari.com](lab.patolojinotlari.com)
-- [patolojinotlari.com](patolojinotlari.com)
+- [lab.patolojinotlari.com]((https://lab.patolojinotlari.com)
+- [patolojinotlari.com]((https://patolojinotlari.com)
 
 # Pancreas Ductal Adenocarcinoma
 
