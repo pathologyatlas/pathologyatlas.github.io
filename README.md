@@ -6,6 +6,10 @@
 - twitter
 - linkedin
 
+- contact: info@patolojinotlari.com
+
+
+
 # Pancreas Ductal Adenocarcinoma
 
 https://pathologyatlas.github.io/pancreaticadenocarcinoma/
