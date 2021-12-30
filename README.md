@@ -83,15 +83,17 @@
 
 ### Aspergillus, Lung
 
+## Basic Tumor Pathology
 
+### TUBULAR ADENOMA
 
-Basic Tumor Pathology-1	TUBULAR ADENOMA
-Basic Tumor Pathology-1	TUBULAR ADENOMA
-Basic Tumor Pathology-1	ADENOCARCINOMA
-Basic Tumor Pathology-1	ADENOCARCINOMA
-Basic Tumor Pathology-1	CARCINOMA METASTASIS IN THE LYMPH NODE
-Basic Tumor Pathology-1	Carcinoma in situ and SCC esophagus
-Basic Tumor Pathology-1	Squamous Cell Carcinoma of Lung
+### ADENOCARCINOMA
+
+### CARCINOMA METASTASIS IN THE LYMPH NODE
+
+### Carcinoma in situ and SCC esophagus
+
+### Squamous Cell Carcinoma of Lung
 
 
 Basic Tumor Pathology-2	Leiomyoma
