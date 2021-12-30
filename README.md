@@ -13,19 +13,22 @@
 ---
 
 # Örnekler
+
 ## Pancreas Ductal Adenocarcinoma
 - https://pathologyatlas.github.io/pancreaticadenocarcinoma/
+
 ### Case 1
 - [histopathology](https://pathologyatlas.github.io/pancreaticadenocarcinoma/case1-histopathology/viewer_z0.html)
 
 ## Neoplazinin Klinikopatolojik Özellikleri ve Epidemiyoloji
 
-- https://pathologyatlas.github.io/lecture1/Neoplazinin-Klinikopatolojik-Ozellikleri-ve-Epidemiyoloji.html#1
+- [https://pathologyatlas.github.io/lecture1/Neoplazinin-Klinikopatolojik-Ozellikleri-ve-Epidemiyoloji.html](https://pathologyatlas.github.io/lecture1/Neoplazinin-Klinikopatolojik-Ozellikleri-ve-Epidemiyoloji.html)
 
 
 ---
 
 ## Cellular Injury
+
 ### Hyperplastic-hypertrophic myometrium
 
 ### Ochranosis, femur head
@@ -33,9 +36,11 @@
 ### Hyperplasia, thyroid
 
 ### anthracotic pigments, lymph node
+
 ### cholesterolosis, gallbladder
 
 ## Inflammation and Hemodynamic Disorders 
+
 ### Pilonidal Sinus
 
 ### Chronic Pyelonephritis
@@ -57,6 +62,7 @@
 ### ischemic necrosis, testis
 
 ### Hemorrhagic (Red) infarct, lung
+
 ### Hemorrhagic (Red) infarct, Testis
 
 ## Infectious agents in tissues
@@ -74,6 +80,7 @@
 ### Amyloidosis, kidney
 
 ### Enterobius vermicularis, appendix
+
 ### Aspergillus, Lung
 
 
