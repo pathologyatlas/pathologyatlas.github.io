@@ -91,7 +91,7 @@
 
 - Macroscopy
 
-![tubular adenoma with a stalk macroscopy](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpeg){width:80%}
+![tubular adenoma with a stalk macroscopy](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpg){width:80%}
 
 - Microscopy
 
