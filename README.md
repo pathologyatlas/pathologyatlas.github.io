@@ -85,7 +85,7 @@
 
 ## Basic Tumor Pathology
 
-### TUBULAR ADENOMA
+### Tubular Adenoma
 
 #### Tubular adenoma with a stalk
 
