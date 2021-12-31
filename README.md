@@ -91,11 +91,11 @@
 
 - Macroscopy
 
-![tubular adenoma with a stalk macroscopy](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpg){width:80%}
+![tubular adenoma with a stalk macroscopy](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpg){80%}
 
 - Microscopy
 
-![tubular adenoma with a stalk](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk.jpeg){width:80%}
+![tubular adenoma with a stalk](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk.jpeg){80%}
 
 - See Microscopy with viewer: 
 
