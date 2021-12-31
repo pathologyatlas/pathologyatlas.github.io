@@ -93,6 +93,8 @@
 
 ![tubular adenoma with a stalk macroscopy](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpg){80%}
 
+<img src ="https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpg" alt="tubular adenoma with a stalk macroscopy" width="80%">
+
 - Microscopy
 
 ![tubular adenoma with a stalk](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk.jpeg){80%}
