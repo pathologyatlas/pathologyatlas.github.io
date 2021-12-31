@@ -105,7 +105,7 @@
 [https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk/viewer_z0.html](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk/viewer_z0.html)
 
 
-<iframe src="https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk/viewer_z0.html" width="100%"></iframe>
+<iframe src="https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk/viewer_z0.html" width="100%" height="100%"></iframe>
 
 
 
