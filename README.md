@@ -85,27 +85,25 @@
 
 ## Basic Tumor Pathology
 
-### [Tubular Adenoma](#tubularadenoma)
+### Tubular Adenoma{.#tubularadenoma}
 
 #### Tubular adenoma with a stalk
 
 - Macroscopy
 
-![tubular adenoma with a stalk macroscopy](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpg){80%}
+![tubular adenoma with a stalk macroscopy](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpg){:80%}
 
 
 <img src ="https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpg" alt="tubular adenoma with a stalk macroscopy" width="80%">
 
 - Microscopy
 
-![tubular adenoma with a stalk](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk.jpeg){80%}
+![tubular adenoma with a stalk](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk.jpeg)
 
 - See Microscopy with viewer: 
 
 [https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk/viewer_z0.html](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk/viewer_z0.html)
 
-
-100
 
 
 
