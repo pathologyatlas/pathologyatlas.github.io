@@ -15,7 +15,7 @@
 # Örnekler
 
 ## Pancreas Ductal Adenocarcinoma
-- https://pathologyatlas.github.io/pancreaticadenocarcinoma/
+- [https://pathologyatlas.github.io/pancreaticadenocarcinoma/](https://pathologyatlas.github.io/pancreaticadenocarcinoma/)
 
 ### Case 1
 - [histopathology](https://pathologyatlas.github.io/pancreaticadenocarcinoma/case1-histopathology/viewer_z0.html)
@@ -92,6 +92,7 @@
 - Macroscopy
 
 ![tubular adenoma with a stalk macroscopy](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpg){80%}
+
 
 <img src ="https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpg" alt="tubular adenoma with a stalk macroscopy" width="80%">
 
