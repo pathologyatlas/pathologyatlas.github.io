@@ -135,6 +135,23 @@
 
 ### Leiomyosarcoma
 
+
+### ANAPLASTIC CARCINOMA
+
+### LEIOMYOSARCOMA
+
+### Compund Melanocytic Nevus
+
+### Malignant Melanoma
+
+### Angiosarcoma
+
+### Compund Melanocytic Nevus
+
+### Basal Cell Carcinoma
+
+
+
 ## Pathology of hematopoietic system and lymphomas
 
 
@@ -149,164 +166,300 @@
 ### Anaplastic Large Cell Lymphoma
 
 
-Basic Tumor Pathology-1	ANAPLASTIC CARCINOMA
-Basic Tumor Pathology-1	LEIOMYOSARCOMA
-Basic Tumor Pathology-2	Compund Melanocytic Nevus
-Basic Tumor Pathology-2	Malignant Melanoma
-Basic Tumor Pathology-2	Angiosarcoma
-Basic Tumor Pathology-2	Compund Melanocytic Nevus
-Basic Tumor Pathology-2	Basal Cell Carcinoma
 
 
-Pathology of Heart and Vascular Diseases	Leucocytoclastic Vasculitis, Of Skin
-Pathology of Heart and Vascular Diseases	Subacute Myocardial Infarction, Organizing Thrombus
-Pathology of Heart and Vascular Diseases	Thrombus
-Pathology of Heart and Vascular Diseases	Myocardial Infarction
-Pathology of Heart and Vascular Diseases	Pyogenic Granuloma
-Pathology of Heart and Vascular Diseases	Cavernous Hemangioma
-Pathology of Heart and Vascular Diseases	Capillary Hemangioma
-Pathology of Heart and Vascular Diseases	Venous Thrombosis
-Pathology of Heart and Vascular Diseases	ATHEROSCLEROSIS + ORGANIZING THROMBUS
-Pathology of Heart and Vascular Diseases	CORONARY ATHEROSCLEROSIS
-Pathology of Heart and Vascular Diseases	PULMONARY THROMBOEMBOLI
+## Pathology of Heart and Vascular Diseases
 
 
-Diseases and Tumors of Respiratory System-1	Emphysema
-Diseases and Tumors of Respiratory System-1	Edema, lung
-Diseases and Tumors of Respiratory System-1	Bronchiectasis in a cystic fibrosis patient
-Diseases and Tumors of Respiratory System-1	Pnemonia
-Diseases and Tumors of Respiratory System-1	Hemorrhagic (Red) infarct, lung
-Diseases and Tumors of Respiratory System-1	Vocal Cord Polyp
-Diseases and Tumors of Respiratory System-1	Aspergillus, Lung
-Diseases and Tumors of Respiratory System-2	Adenocarcinoma of Lung
-Diseases and Tumors of Respiratory System-2	Squamous Cell Carcinoma of Lung
-Diseases and Tumors of Respiratory System-2	SMALL CELL CARCINOMA
-Diseases and Tumors of Respiratory System-2	CARCINOID TUMOR
-Diseases and Tumors of Respiratory System-2	MESOTHELIOMA
-Diseases and Tumors of Respiratory System-1	TUBERCULOSIS
+### Leucocytoclastic Vasculitis, Of Skin
+
+### Subacute Myocardial Infarction, Organizing Thrombus
+
+### Thrombus
+
+### Myocardial Infarction
+
+### Pyogenic Granuloma
+
+### Cavernous Hemangioma
+
+### Capillary Hemangioma
+
+### Venous Thrombosis
+
+### ATHEROSCLEROSIS + ORGANIZING THROMBUS
+
+### CORONARY ATHEROSCLEROSIS
+
+### PULMONARY THROMBOEMBOLI
+
+## Diseases and Tumors of Respiratory System
 
 
-Pathology of Urinary System	Obstructive Nephropathy, Chronic Pyelonephritis, Focal Active Chronic Pyelonephritis
-Pathology of Urinary System	Global Sclerosis in Glomeruli and Atherosclerosis
-Pathology of Urinary System	Global Sclerosis and Hypertensive Changes
-Pathology of Urinary System	Amyloidosis, kidney
+### Emphysema
+
+### Edema, lung
+
+### Bronchiectasis in a cystic fibrosis patient
+
+### Pnemonia
+
+### Hemorrhagic (Red) infarct, lung
+
+### Vocal Cord Polyp
+
+### Aspergillus, Lung
+
+### Adenocarcinoma of Lung
+
+### Squamous Cell Carcinoma of Lung
+
+### SMALL CELL CARCINOMA
+
+### CARCINOID TUMOR
+
+### MESOTHELIOMA
+
+### TUBERCULOSIS
+
+## Pathology of Urinary System
 
 
-Tumors of Urinary System and Testis	BENIGN PROSTATE HYPERPLASIA
-Tumors of Urinary System and Testis	Prostatic Adenocarcinoma
-Tumors of Urinary System and Testis	Prostate Adenocarcinoma (Signet Ring Cell Variant)
-Tumors of Urinary System and Testis	RENAL CELL CARCINOMA
-Tumors of Urinary System and Testis	Renal Cell Carcinoma (Papillary Type)
-Tumors of Urinary System and Testis	WİLM’S TUMOR (NEPHROBLASTOMA)
-Tumors of Urinary System and Testis	Invasive urothelial carcinoma
-Tumors of Urinary System and Testis	Non-invasive papillary urothelial carcinoma
-Tumors of Urinary System and Testis	Embriyonel Karsinom
-Tumors of Urinary System and Testis	Seminoma
+### Obstructive Nephropathy, Chronic Pyelonephritis, Focal Active Chronic Pyelonephritis
 
-Pathology of Urinary System	Global Sclerosis
+### Global Sclerosis in Glomeruli and Atherosclerosis
+
+### Global Sclerosis and Hypertensive Changes
+
+### Amyloidosis, kidney
+
+### Global Sclerosis
 
 
-Gynecologic pathologies-1	CERVİX: Transformation Zone, Squamocolumnar Junction And Squamous Metaplasia
-Gynecologic pathologies-1	Squamous Cell Carcinoma, Cervix
-Gynecologic pathologies-1	Secretory Endometrium
-Gynecologic pathologies-1	Proliferative Endometrium
-Gynecologic pathologies-1	Endometrial Polyp
-Gynecologic pathologies-1	ENDOMETRİAL ADENOCARCINOMA
-Gynecologic pathologies-2	Leiomyoma
-Gynecologic pathologies-2	Leiomyosarcoma
-Gynecologic pathologies-2	HYDATIFORM MOLE
-Gynecologic pathologies-2	TERATOMA
-Gynecologic pathologies-2	SEROUS PAPILLARY CYSTADENOCARCINOMA
-Gynecologic pathologies-1	High Grade Squamous Intraepithelial Lesion (HSIL): (Cervical Intraepithelial Neoplasia 2-3, “CIN 2-3”)
-Gynecologic pathologies-1	ENDOMETRIAL HYPERPLASIA  
-Gynecologic pathologies-2	Plasenta 
-Gynecologic pathologies-2	The Umblical Cord
-Gynecologic pathologies-2	PREGNANCY
+# Tumors of Urinary System and Testis
 
 
-Pathology of Urinary System	ACUTE TUBULAR NECROSİS
-Pathology of Urinary System	RENAL CORTİCAL NECROSİS
-Pathology of Urinary System	SECONDARY RENAL AMYLOIDOSIS
-Pathology of Urinary System	POLYCYSTİC RENAL DİSEASE ADULT TYPE
-Pathology of Urinary System	ESSENTIAL MALİGNANT HYPERTENSİON
-Pathology of Urinary System	RENAL MACRO (CLASSICAL FORM) POLYARTERITIS
-Pathology of Urinary System	SECONDARY BENIGN HYPERTENSION (PRIMARY DİSEASE IS RENAL LİTHİASIS)
-Pathology of Urinary System	ACUT RENAL INFARCTION (INCIDENTAL)
-Pathology of Urinary System	DIFFUSELY PROLIFERATIVE GLOMERULONEPHRITIS ASSOCIATED WİTH CRESCENTS
-Pathology of Urinary System	ACUTE INTERSTITIAL NEPHRITIS WITH ABSCESSES
-Pathology of Urinary System	CYTOMEGALIC INCLUSION DISEASE (C.M.I)
+
+### BENIGN PROSTATE HYPERPLASIA
+
+### Prostatic Adenocarcinoma
+
+### Prostate Adenocarcinoma (Signet Ring Cell Variant)
+
+### RENAL CELL CARCINOMA
+
+### Renal Cell Carcinoma (Papillary Type)
+
+### WİLM’S TUMOR (NEPHROBLASTOMA)
+
+### Invasive urothelial carcinoma
+
+### Non-invasive papillary urothelial carcinoma
+
+### Embriyonel Karsinom
+
+### Seminoma
+
+## Gynecologic pathologies
 
 
-Pathology of Gastrointestinal Tract-1	TUBULAR ADENOMA
-Pathology of Gastrointestinal Tract-1	TUBULAR ADENOMA
-Pathology of Gastrointestinal Tract-1	Sessile Serrated Adenoma
-Pathology of Gastrointestinal Tract-1	Poorly Differentiated Gastric CA With Signet Ring Cell Component (Linitis Plastica)
-Pathology of Gastrointestinal Tract-1	Poorly Differentiated Gastric CA With Signet Ring Cell Component (Linitis Plastica)
-Pathology of Gastrointestinal Tract-1	Moderately Differentiated Colorectal Adenocarcinoma
-Pathology of Gastrointestinal Tract-1	Poorly Differentiated Gastric CA With Signet Ring Cell Component (Linitis Plastica)
-Pathology of Gastrointestinal Tract-1	Carcinoma in situ and SCC esophagus
-Pathology of Gastrointestinal Tract-2	Acute Appendicitis, Perforated
-Pathology of Gastrointestinal Tract-2	Ulcer, stomach
-Pathology of Gastrointestinal Tract-2	Chronic Atrophic Gastritis and focal intestinal metaplasia
-Pathology of Gastrointestinal Tract-2	Enterobius vermicularis, appendix
-Pathology of Gastrointestinal Tract-2	Giardiasis, duodenum
-Pathology of Gastrointestinal Tract-3	İyi diferansiye Nöroendokrin Tümör
-Pathology of Gastrointestinal Tract-3	Neuroendocrine Carcinoma
-Pathology of Gastrointestinal Tract-3	Warthin Tumor
-Pathology of Gastrointestinal Tract-3	Pleomorphic Adenoma
+### CERVİX: Transformation Zone, Squamocolumnar Junction And Squamous Metaplasia
 
-	Adenoid Cystic Carcinoma
+### Squamous Cell Carcinoma, Cervix
 
-Pathology of Gastrointestinal Tract	İyi diferansiye Nöroendokrin Tümör
-Pathology of Gastrointestinal Tract	Mucinous Colorectal Adenocarcinoma
-Pathology of Gastrointestinal Tract	Squamous Cell Carcinoma Of Esophagus
-Pathology of Gastrointestinal Tract	Tubulovillous adenoma
-Pathology of Liver and Pancreatobiliary System	Chronic Cholecystitis, Cholesterolosis
-Pathology of Liver and Pancreatobiliary System	Chronic Cholecystitis, Cholesterolosis
-Pathology of Liver and Pancreatobiliary System	Cirrhosis
-Pathology of Liver and Pancreatobiliary System	Hepatocellular Carcinoma, with cirrhosis
-Pathology of Liver and Pancreatobiliary System	Hepatocellular Carcinoma, without cirrhosis
+### Secretory Endometrium
+
+### Proliferative Endometrium
+
+### Endometrial Polyp
+
+### ENDOMETRİAL ADENOCARCINOMA
+
+### Leiomyoma
+
+### Leiomyosarcoma
+
+### HYDATIFORM MOLE
+
+### TERATOMA
+
+### SEROUS PAPILLARY CYSTADENOCARCINOMA
+
+### High Grade Squamous Intraepithelial Lesion (HSIL): (Cervical Intraepithelial Neoplasia 2-3, “CIN 2-3”)
+
+### ENDOMETRIAL HYPERPLASIA  
+
+### Plasenta 
+
+### The Umblical Cord
+
+### PREGNANCY
+
+
+## Pathology of Urinary System
+
+
+### ACUTE TUBULAR NECROSİS
+
+### RENAL CORTİCAL NECROSİS
+
+### SECONDARY RENAL AMYLOIDOSIS
+
+### POLYCYSTİC RENAL DİSEASE ADULT TYPE
+
+### ESSENTIAL MALİGNANT HYPERTENSİON
+
+### RENAL MACRO (CLASSICAL FORM) POLYARTERITIS
+
+### SECONDARY BENIGN HYPERTENSION (PRIMARY DİSEASE IS RENAL LİTHİASIS)
+
+### ACUT RENAL INFARCTION (INCIDENTAL)
+
+### DIFFUSELY PROLIFERATIVE GLOMERULONEPHRITIS ASSOCIATED WİTH CRESCENTS
+
+### ACUTE INTERSTITIAL NEPHRITIS WITH ABSCESSES
+
+### CYTOMEGALIC INCLUSION DISEASE (C.M.I)
+
+
+## Pathology of Gastrointestinal Tract
+
+
+### TUBULAR ADENOMA
+
+### TUBULAR ADENOMA
+
+### Sessile Serrated Adenoma
+
+### Poorly Differentiated Gastric CA With Signet Ring Cell Component (Linitis Plastica)
+
+### Poorly Differentiated Gastric CA With Signet Ring Cell Component (Linitis Plastica)
+
+### Moderately Differentiated Colorectal Adenocarcinoma
+
+### Poorly Differentiated Gastric CA With Signet Ring Cell Component (Linitis Plastica)
+
+### Carcinoma in situ and SCC esophagus
+
+### Acute Appendicitis, Perforated
+
+### Ulcer, stomach
+
+### Chronic Atrophic Gastritis and focal intestinal metaplasia
+
+### Enterobius vermicularis, appendix
+
+### Giardiasis, duodenum
+
+### İyi diferansiye Nöroendokrin Tümör
+
+### Neuroendocrine Carcinoma
+
+### Warthin Tumor
+
+### Pleomorphic Adenoma
+
+### Adenoid Cystic Carcinoma
+
+
+### İyi diferansiye Nöroendokrin Tümör
+
+### Mucinous Colorectal Adenocarcinoma
+
+### Squamous Cell Carcinoma Of Esophagus
+
+### Tubulovillous adenoma
+
+## Pathology of Liver and Pancreatobiliary System
+
+
+### Chronic Cholecystitis, Cholesterolosis
+
+### Chronic Cholecystitis, Cholesterolosis
+
+### Cirrhosis
+
+### Hepatocellular Carcinoma, with cirrhosis
+
+### Hepatocellular Carcinoma, without cirrhosis
 
 - https://pathologyatlas.github.io/hepatocellularcarcinoma/HCC/viewer_z0.html
 
-Pathology of Liver and Pancreatobiliary System	Pancreatic Adenocarcinoma
-Pathology of Liver and Pancreatobiliary System	Pancreatitis
-Pathology of Liver and Pancreatobiliary System	Chronic Cholecystitis, Bile Granuloma
+
+### Pancreatic Adenocarcinoma
+
+### Pancreatitis
+
+### Chronic Cholecystitis, Bile Granuloma
+
+## Pathology of Endocrine System
 
 
-Pathology of Endocrine System-1	Multinodular Goitre
-Pathology of Endocrine System-1	PAPILLARY CARCINOMA, THYROID
-Pathology of Endocrine System-1	Papillary Microcarcinoma, Thyroid
-Pathology of Endocrine System-1	Diffuse Hyperplasia Of Thyroid
-Pathology of Endocrine System-1	Chronic Lymphocytic Thyroiditis
-Pathology of Endocrine System-2	Pituitary adenoma
-Pathology of Endocrine System-2	PHEOCHROMOCYTOMA
-Pathology of Endocrine System-2	Parathyroid Adenoma
+### Multinodular Goitre
+
+### PAPILLARY CARCINOMA, THYROID
+
+### Papillary Microcarcinoma, Thyroid
+
+### Diffuse Hyperplasia Of Thyroid
+
+### Chronic Lymphocytic Thyroiditis
+
+### Pituitary adenoma
+
+### PHEOCHROMOCYTOMA
+
+### Parathyroid Adenoma
+
+## Pathology of Breast
+
+### FIBROADENOMA, BREAST
+
+### Fibrocyctic Changes, Epithelial Hyperplasia, Apocrine Metaplasia, Sclerosing Adenosis, Blunt Duct Adenosis
+
+### INFILTRATIVE DUCTAL CARCINOMA, BREAST
+
+## Pathology of CNS
 
 
-Pathology of Breast	FIBROADENOMA, BREAST
-Pathology of Breast	Fibrocyctic Changes, Epithelial Hyperplasia, Apocrine Metaplasia, Sclerosing Adenosis, Blunt Duct Adenosis
-Pathology of Breast	INFILTRATIVE DUCTAL CARCINOMA, BREAST
+### Subacute Ischemic Infarct
+
+### Meningitis, Crypticoccal meningitis
+
+### Brain Abcess
+
+### Meningioma
+
+### Schwannoma
+
+### Paraganglioma
+
+### Schwannoma
+
+### Pilocytic Astrocytoma
+
+### Glioblastoma
+
+### Oligodendroglioma
+
+### Medulloblastoma
+
+### Pyogenic Meningitis
+
+### Suppurative Encephalitis
+
+### Alzheimer’s Disease
 
 
-Pathology of CNS	Subacute Ischemic Infarct
-Pathology of CNS	Meningitis, Crypticoccal meningitis
-Pathology of CNS	Brain Abcess
-Pathology of CNS	Meningioma
-Pathology of CNS	Schwannoma
-Pathology of CNS	Paraganglioma
-Pathology of CNS	Schwannoma
-Pathology of CNS	Pilocytic Astrocytoma
-	
-Pathology of CNS	Glioblastoma
-Pathology of CNS	Oligodendroglioma
-Pathology of CNS	Medulloblastoma
-Pathology of CNS	Pyogenic Meningitis
-Pathology of CNS	Suppurative Encephalitis
-Pathology of CNS	Alzheimer’s Disease
-	
-Tumors of Soft Tissue and Bone	Liposarcoma
-Tumors of Soft Tissue and Bone	Osteosarcoma
-Tumors of Soft Tissue and Bone	Osteochondroma
-Tumors of Soft Tissue and Bone	Chondrosarcoma
-Tumors of Soft Tissue and Bone	Fibrosarcoma
+## Tumors of Soft Tissue and Bone
+
+
+### Liposarcoma
+
+### Osteosarcoma
+
+### Osteochondroma
+
+### Chondrosarcoma
+
+### Fibrosarcoma
