@@ -113,7 +113,7 @@
 
 
 
-### ADENOCARCINOMA
+### Adenocarcinoma
 
 ### CARCINOMA METASTASIS IN THE LYMPH NODE
 
@@ -122,19 +122,31 @@
 ### Squamous Cell Carcinoma of Lung
 
 
-Basic Tumor Pathology-2	Leiomyoma
-Basic Tumor Pathology-2	Bowen Disease
-Basic Tumor Pathology-2	İntradermal Melanocytic Nevüs
-Basic Tumor Pathology-2	Teratoma
-Basic Tumor Pathology-2	Osteosarcoma
-Basic Tumor Pathology-2	Leiomyosarcoma
+
+### Leiomyoma
+
+### Bowen Disease
+
+### İntradermal Melanocytic Nevüs
+
+### Teratoma
+
+### Osteosarcoma
+
+### Leiomyosarcoma
+
+## Pathology of hematopoietic system and lymphomas
 
 
-Pathology of hematopoietic system and lymphomas	Normal Lymph Node
-Pathology of hematopoietic system and lymphomas	SMALL LYMPHOCYTIC LYMPHOMA / LEUKEMIA
-Pathology of hematopoietic system and lymphomas	Diffuse Large B Cell Lymphoma
-Pathology of hematopoietic system and lymphomas	HODGKIN LYMPHOMA (NODULAR-SCLEROSING VARIANT)
-Pathology of hematopoietic system and lymphomas	Anaplastic Large Cell Lymphoma
+### Normal Lymph Node
+
+### SMALL LYMPHOCYTIC LYMPHOMA / LEUKEMIA
+
+### Diffuse Large B Cell Lymphoma
+
+### HODGKIN LYMPHOMA (NODULAR-SCLEROSING VARIANT)
+
+### Anaplastic Large Cell Lymphoma
 
 
 Basic Tumor Pathology-1	ANAPLASTIC CARCINOMA
@@ -254,6 +266,9 @@ Pathology of Liver and Pancreatobiliary System	Chronic Cholecystitis, Cholestero
 Pathology of Liver and Pancreatobiliary System	Cirrhosis
 Pathology of Liver and Pancreatobiliary System	Hepatocellular Carcinoma, with cirrhosis
 Pathology of Liver and Pancreatobiliary System	Hepatocellular Carcinoma, without cirrhosis
+
+- https://pathologyatlas.github.io/hepatocellularcarcinoma/HCC/viewer_z0.html
+
 Pathology of Liver and Pancreatobiliary System	Pancreatic Adenocarcinoma
 Pathology of Liver and Pancreatobiliary System	Pancreatitis
 Pathology of Liver and Pancreatobiliary System	Chronic Cholecystitis, Bile Granuloma

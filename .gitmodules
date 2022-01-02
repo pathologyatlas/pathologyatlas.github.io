@@ -4,3 +4,6 @@
 [submodule "tubularadenoma"]
 	path = tubularadenoma
 	url = https://github.com/pathologyatlas/tubularadenoma
+[submodule "hepatocellularcarcinoma"]
+	path = hepatocellularcarcinoma
+	url = https://github.com/pathologyatlas/hepatocellularcarcinoma
