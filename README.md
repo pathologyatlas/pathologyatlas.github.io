@@ -67,6 +67,10 @@
 
 ## Infectious agents in tissues
 
+### Candida _albicans_ in cervicovaginal smear
+
+- [https://pathologyatlas.github.io/candidaalbicans/cervicovaginalsmear/viewer_z0.html](https://pathologyatlas.github.io/candidaalbicans/cervicovaginalsmear/viewer_z0.html)
+
 ### Necrotizing Granulamatous Lymphadenitis
 
 ### Granulamatous Inflammation, Caseification
