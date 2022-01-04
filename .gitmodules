@@ -7,3 +7,6 @@
 [submodule "hepatocellularcarcinoma"]
 	path = hepatocellularcarcinoma
 	url = https://github.com/pathologyatlas/hepatocellularcarcinoma
+[submodule "candidaalbicans"]
+	path = candidaalbicans
+	url = https://github.com/pathologyatlas/candidaalbicans
