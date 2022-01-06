@@ -10,3 +10,9 @@
 [submodule "candidaalbicans"]
 	path = candidaalbicans
 	url = https://github.com/pathologyatlas/candidaalbicans
+[submodule "LAMN"]
+	path = LAMN
+	url = https://github.com/pathologyatlas/LAMN
+[submodule "HSV"]
+	path = HSV
+	url = https://github.com/pathologyatlas/HSV
