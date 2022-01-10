@@ -1,20 +1,20 @@
-name: when update send tweet
+name: Update Site and Tweet
 on:
   push:
 
 jobs:
-#  build:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
 
-#    runs-on: ubuntu-latest
-
-#    steps:
-#    - uses: actions/checkout@v2
-#    - name: Build the site in the jekyll/builder container
-#      run: |
-#        docker run \
-#        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-#        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
   tweet:
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Get current date
