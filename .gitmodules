@@ -16,3 +16,6 @@
 [submodule "HSV"]
 	path = HSV
 	url = https://github.com/pathologyatlas/HSV
+[submodule "osteochondroma"]
+	path = osteochondroma
+	url = https://github.com/pathologyatlas/osteochondroma
