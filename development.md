@@ -6,6 +6,15 @@ https://github.blog/2016-02-01-working-with-submodules/
 git submodule add https://github.com/pathologyatlas/pancreaticadenocarcinoma pancreaticadenocarcinoma
 ```
 
+# removing submodule
+
+```zsh
+git submodule deinit -f --all
+rm -rf .git/modules/
+git rm -f pancreaticadenocarcinoma
+```
+
+
 
 # making WSI
 
