@@ -1,0 +1,3 @@
+[submodule "breast"]
+	path = breast
+	url = https://github.com/pathologyatlas/breast
