@@ -12,7 +12,7 @@
 
 ---
 
-# Örnekler
+# Examples for future uploads
 
 ## Pancreas Ductal Adenocarcinoma
 - [https://pathologyatlas.github.io/pancreaticadenocarcinoma/](https://pathologyatlas.github.io/pancreaticadenocarcinoma/)
