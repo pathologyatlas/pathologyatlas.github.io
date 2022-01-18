@@ -1,3 +1,6 @@
 [submodule "breast"]
 	path = breast
 	url = https://github.com/pathologyatlas/breast
+[submodule "GIS"]
+	path = GIS
+	url = https://github.com/pathologyatlas/GIS

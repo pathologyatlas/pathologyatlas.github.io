@@ -34,6 +34,13 @@
 
 ---
 
+# GIS Pathology
+
+- See extended list of Gastrointestinal System Pathology cases here [https://pathologyatlas.github.io/GIS/](https://pathologyatlas.github.io/GIS/)
+
+---
+
+
 # Medical School Pathology Laboratory Practice
 
 ## Cellular Injury
@@ -477,6 +484,23 @@
 
 
 ## Tumors of Soft Tissue and Bone
+
+
+## Exostosis (osteochondroma)
+
+- [https://pathologyatlas.github.io/exostosis/oc.html](https://pathologyatlas.github.io/exostosis/oc.html)
+
+<iframe src="https://pathologyatlas.github.io/exostosis/oc.html" width="100%" height="400px"></iframe>
+
+
+- [https://pathologyatlas.github.io/exostosis/oc001.html](https://pathologyatlas.github.io/exostosis/oc001.html)
+
+<iframe src="https://pathologyatlas.github.io/exostosis/oc001.html" width="100%" height="400px"></iframe>
+
+
+- [https://pathologyatlas.github.io/exostosis/oc002.html](https://pathologyatlas.github.io/exostosis/oc002.html)
+
+<iframe src="https://pathologyatlas.github.io/exostosis/oc002.html" width="100%" height="400px"></iframe>
 
 
 ### Liposarcoma
