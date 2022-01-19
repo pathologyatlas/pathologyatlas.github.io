@@ -87,9 +87,22 @@
 
 - [https://pathologyatlas.github.io/candidaalbicans/cervicovaginalsmear/viewer_z0.html](https://pathologyatlas.github.io/candidaalbicans/cervicovaginalsmear/viewer_z0.html)
 
-
+- See Microscopy with viewer: 
 
 <iframe src="https://pathologyatlas.github.io/candidaalbicans/cervicovaginalsmear/viewer_z0.html" width="100%" height="400px"></iframe>
+
+
+
+### Herpes Simplex Virus (HSV)
+
+#### Herpes Esophagatis
+
+
+- [https://pathologyatlas.github.io/HSV/herpesesophagitis/viewer_z0.html](https://pathologyatlas.github.io/HSV/herpesesophagitis/viewer_z0.html)
+
+- See Microscopy with viewer: 
+
+<iframe src="https://pathologyatlas.github.io/HSV/herpesesophagitis/viewer_z0.html" width="100%" height="400px"></iframe>
 
 
 
@@ -412,7 +425,7 @@
 
 - [https://pathologyatlas.github.io/hepatocellularcarcinoma/HCC/viewer_z0.html](https://pathologyatlas.github.io/hepatocellularcarcinoma/HCC/viewer_z0.html)
 
-
+- See Microscopy with viewer: 
 
 <iframe src="https://pathologyatlas.github.io/hepatocellularcarcinoma/HCC/viewer_z0.html" width="100%" height="400px"></iframe>
 
@@ -490,15 +503,21 @@
 
 - [https://pathologyatlas.github.io/exostosis/oc.html](https://pathologyatlas.github.io/exostosis/oc.html)
 
+- See Microscopy with viewer: 
+
 <iframe src="https://pathologyatlas.github.io/exostosis/oc.html" width="100%" height="400px"></iframe>
 
 
 - [https://pathologyatlas.github.io/exostosis/oc001.html](https://pathologyatlas.github.io/exostosis/oc001.html)
 
+- See Microscopy with viewer: 
+
 <iframe src="https://pathologyatlas.github.io/exostosis/oc001.html" width="100%" height="400px"></iframe>
 
 
 - [https://pathologyatlas.github.io/exostosis/oc002.html](https://pathologyatlas.github.io/exostosis/oc002.html)
+
+- See Microscopy with viewer: 
 
 <iframe src="https://pathologyatlas.github.io/exostosis/oc002.html" width="100%" height="400px"></iframe>
 
