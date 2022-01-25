@@ -367,7 +367,45 @@
 
 ### TUBULAR ADENOMA
 
-### TUBULAR ADENOMA
+#### Tubular adenoma with a stalk
+
+- Macroscopy
+
+![tubular adenoma with a stalk macroscopy](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpg){:80%}
+
+
+<img src ="https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk-macroscopy.jpg" alt="tubular adenoma with a stalk macroscopy" width="80%">
+
+- Microscopy
+
+![tubular adenoma with a stalk](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk.jpeg)
+
+- See Microscopy with viewer: 
+
+[https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk/viewer_z0.html](https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk/viewer_z0.html)
+
+
+
+
+<iframe src="https://pathologyatlas.github.io/tubularadenoma/tubular-adenoma-with-stalk/viewer_z0.html" width="100%" height="400px"></iframe>
+
+
+
+### Colon Hyperplastic Polyp
+
+
+- Microscopy
+
+[https://pathologyatlas.github.io/hyperplasticpolyp/case1.html](https://pathologyatlas.github.io/hyperplasticpolyp/case1.html)
+
+- See Microscopy with viewer: 
+
+
+<iframe src="https://pathologyatlas.github.io/hyperplasticpolyp/case1.html" width="100%" height="400px"></iframe>
+
+
+
+
 
 ### Sessile Serrated Adenoma
 
