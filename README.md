@@ -7,6 +7,8 @@
 - [twitter](https://twitter.com/patolojinotlari)
 - [linkedin](https://www.linkedin.com/company/patoloji-notlari)
 
+- [development & WIP](development.md)
+
 - contact: info@patolojinotlari.com
 
 

@@ -20,3 +20,8 @@ git rm -f pancreaticadenocarcinoma
 
 see: [Convert .svs to .dzi and publish as or embed in a web page](https://github.com/PathologyWeb/make-html-WSI#convert-svs-to-dzi-and-publish-as-or-embed-in-a-web-page)
 
+
+# using templates for new repositories
+
+see: [Using templates for new repositories](https://github.com/pathologyatlas/template)
+
