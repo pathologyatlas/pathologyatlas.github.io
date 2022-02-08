@@ -68,9 +68,9 @@
 ### Foreign Body Reaction
 
 
-### Fat Necrosis
+### Fat Necrosis and Saponification
 
-Histopathology of fat necrosis in adipose tissue
+Histopathology of fat necrosis and saponification in adipose tissue
 
 - [https://pathologyatlas.github.io/fat-necrosis/HE.html](https://pathologyatlas.github.io/fat-necrosis/HE.html)
 
