@@ -1,5 +1,6 @@
 # Pathology Atlas / Patoloji Notları
 
+- [https://www.patolojiatlasi.com/](https://www.patolojiatlasi.com/)
 - [pathologyatlas.github.io](https://pathologyatlas.github.io/)
 - [lab.patolojinotlari.com](https://lab.patolojinotlari.com)
 - [patolojinotlari.com](https://patolojinotlari.com)
