@@ -24,7 +24,7 @@ jobs:
          run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
        - uses: ethomson/send-tweet-action@v1
          with:
-           status: '#Pathology Atlas and Notes for #MedicalSchool Students: See and Learn is updated on ${{ steps.date.outputs.date }}. See here https://www.patolojinotlari.com/ and #digitalslides #WSI here https://lab.patolojinotlari.com/'
+           status: '#Pathology Atlas and Notes for #MedicalSchool Students: See and Learn is updated on ${{ steps.date.outputs.date }}. See https://www.patolojinotlari.com/ For #digitalslides #WSI see https://lab.patolojinotlari.com/ and https://www.patolojiatlasi.com/'
            consumer-key: ${{ secrets.API_KEY }}
            consumer-secret: ${{ secrets.API_SECRET_KEY }}
            access-token: ${{ secrets.ACCESS_TOKEN }}
