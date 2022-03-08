@@ -276,6 +276,18 @@ Crystal violet stain of amyloid accumulation in vessel wall
 ### Teratoma
 
 
+### Heterotopia
+
+#### Intrapancreatic Spleen, Heterotopia
+
+
+- [https://pathologyatlas.github.io/intrapancreaticspleen/HE.html](https://pathologyatlas.github.io/intrapancreaticspleen/HE.html)
+
+- See Microscopy with viewer: 
+
+<iframe src="https://pathologyatlas.github.io/intrapancreaticspleen/HE.html" width="100%" height="400px"></iframe>
+
+
 ### Hamartoma
 
 #### Hamartomatous Polyp
@@ -405,6 +417,17 @@ Crystal violet stain of amyloid accumulation in vessel wall
 ### RENAL CELL CARCINOMA
 
 ### Renal Cell Carcinoma (Papillary Type)
+
+
+### Kidney Oncocytoma
+
+- [https://pathologyatlas.github.io/kidneyoncocytoma/HE.html](https://pathologyatlas.github.io/kidneyoncocytoma/HE.html)
+
+- See Microscopy with viewer: 
+
+<iframe src="https://pathologyatlas.github.io/kidneyoncocytoma/HE.html" width="100%" height="400px"></iframe>
+
+
 
 ### WİLM’S TUMOR (NEPHROBLASTOMA)
 
