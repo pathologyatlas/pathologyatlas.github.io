@@ -152,7 +152,6 @@ Histopathology of Keloid Scar Formation
 
 ### Amyloidosis
 
-
 #### Crystal Violet
 
 Crystal violet stain of amyloid accumulation in vessel wall
@@ -275,6 +274,18 @@ Crystal violet stain of amyloid accumulation in vessel wall
 ### İntradermal Melanocytic Nevüs
 
 ### Teratoma
+
+
+### Hamartoma
+
+#### Hamartomatous Polyp
+
+- [https://pathologyatlas.github.io/hamartomatouspolyp/HE.html](https://pathologyatlas.github.io/hamartomatouspolyp/HE.html)
+
+- See Microscopy with viewer: 
+
+<iframe src="https://pathologyatlas.github.io/hamartomatouspolyp/HE.html" width="100%" height="400px"></iframe>
+
 
 ### Osteosarcoma
 
@@ -428,14 +439,14 @@ Crystal violet stain of amyloid accumulation in vessel wall
 
 ### TERATOMA
 
-### Ovarian Serous Micropapillary Carcinoma
+
+### Ovary, Serous borderline tumor, micropapillary variant
 
 - [https://pathologyatlas.github.io/ovarianserousmicropapillary/HE.html](https://pathologyatlas.github.io/ovarianserousmicropapillary/HE.html)
 
 - See Microscopy with viewer: 
 
 <iframe src="https://pathologyatlas.github.io/ovarianserousmicropapillary/HE.html" width="100%" height="400px"></iframe>
-
 
 
 
@@ -537,6 +548,13 @@ Crystal violet stain of amyloid accumulation in vessel wall
 <iframe src="https://pathologyatlas.github.io/hyperplasticpolyp/case1.html" width="100%" height="400px"></iframe>
 
 
+### Hamartomatous Polyp
+
+- [https://pathologyatlas.github.io/hamartomatouspolyp/HE.html](https://pathologyatlas.github.io/hamartomatouspolyp/HE.html)
+
+- See Microscopy with viewer: 
+
+<iframe src="https://pathologyatlas.github.io/hamartomatouspolyp/HE.html" width="100%" height="400px"></iframe>
 
 
 
