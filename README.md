@@ -299,6 +299,16 @@ Crystal violet stain of amyloid accumulation in vessel wall
 <iframe src="https://pathologyatlas.github.io/hamartomatouspolyp/HE.html" width="100%" height="400px"></iframe>
 
 
+### Metastasis
+#### Metastatic Sarcoma in the Liver
+
+- [https://pathologyatlas.github.io/metastaticsarcoma/HE.html](https://pathologyatlas.github.io/metastaticsarcoma/HE.html)
+
+- See Microscopy with viewer: 
+
+<iframe src="https://pathologyatlas.github.io/metastaticsarcoma/HE.html" width="100%" height="400px"></iframe>
+
+
 ### Osteosarcoma
 
 ### Leiomyosarcoma
