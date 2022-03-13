@@ -198,6 +198,19 @@ Crystal violet stain of amyloid accumulation in vessel wall
 
 
 
+
+### Helicobacter pylori (H. pylori) in stomach
+
+#### Warthin Starry Slide
+
+[https://pathologyatlas.github.io/helicobacterpylori/warthinstarry.html](https://pathologyatlas.github.io/helicobacterpylori/warthinstarry.html)
+
+See Microscopy with viewer: 
+
+<iframe src="https://pathologyatlas.github.io/helicobacterpylori/warthinstarry.html" width="100%" height="400px"></iframe>
+
+
+
 ### Necrotizing Granulamatous Lymphadenitis
 
 ### Granulamatous Inflammation, Caseification

@@ -1,4 +1,8 @@
 # Pathology Websites with Whole Slide Images
+
+## https://pathologyatlas.ro/
+
+https://pathologyatlas.ro/
 ## Essential Brain Anatomy & Neuropathology (EBA&N)
 - https://pathologycenter.jp/english/en_index.html
 
